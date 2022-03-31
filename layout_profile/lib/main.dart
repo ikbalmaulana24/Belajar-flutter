@@ -239,7 +239,7 @@ class _MyAppState extends State<MyApp> {
                         ),
                         SizedBox(height: 8,),
                         Text(
-                          'kec. Citeurep, kab. Bogor, Jawa Barat',
+                          'ds. Karang Asem Timur, RT 04,\nkec. Citeurep, kab. Bogor, Jawa Barat',
                           style: empat,
                         ),
                       ],
